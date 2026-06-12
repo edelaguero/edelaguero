@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=edelaguero&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-### Full Stack Engineer | Cloud Solutions Architect | DevOps & Automation
+### Full Stack Engineer | Cloud Solutions Architect | DevOps & Automation | University Teach Teacher
 
 <p>
 Building scalable applications, cloud-native solutions and modern software architectures.
