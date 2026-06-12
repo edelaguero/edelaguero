@@ -1,6 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Edel Agüero
+<p align="center">
+  <img src="https://raw.githubusercontent.com/edelaguero/edelaguero/main/assets/banner.png">
+</p>
+
+# 👋 Hi, I'm Edel Agüero M
 
 ### Full Stack Software Engineer | Cloud Architect | DevOps Enthusiast
 
@@ -31,6 +35,13 @@ Building scalable applications, cloud-native solutions and modern software archi
 🌎 Based in Costa Rica and working remotely.
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edelaguero&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edelaguero&layout=compact&theme=github_dark)
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +56,14 @@ Building scalable applications, cloud-native solutions and modern software archi
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+
+
+### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-20232A?style=for-the-badge&logo=ionic)
+![Swift](https://img.shields.io/badge/Swift-20232A?style=for-the-badge&logo=swift)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Cloud & DevOps
 
@@ -54,35 +72,28 @@ Building scalable applications, cloud-native solutions and modern software archi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Databases & Messaging
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
 
 ---
+## 🏛️ Architecture Interests
 
-## 📊 GitHub Stats
-
-![Edel's GitHub stats](https://github-readme-stats.vercel.app/api?username=edelaguero&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edelaguero&layout=compact&theme=github_dark)
-
----
-
-## 🔥 Current Focus
-
-- Cloud Architecture (AWS & Azure)
 - Microservices
-- Kubernetes & Terraform
-- DevOps Automation
-- SaaS Platforms
-- AI-Assisted Development
+- Front End
+- Event Driven Architecture
+- Domain Driven Design (DDD)
+- Serverless Solutions
+- Cloud Native Applications
+- CI/CD Pipelines
 
 ---
-
 ## 🌐 Connect With Me
 
 📍 Costa Rica
@@ -97,6 +108,6 @@ Building scalable applications, cloud-native solutions and modern software archi
 
 <div align="center">
 
-### "Building software that scales."
+### "DESIGN. BUILD. SCALE."
 
 </div>
