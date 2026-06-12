@@ -8,8 +8,6 @@
 
 ### Full Stack Software Engineer | Cloud Architect | DevOps Enthusiast
 
-• Java • Python • Node.js • React • React Native • Flutter • Angular • AWS • Azure • GCP • Docker • Kubernetes • Terraform • DevOps • Software Architecture
-
 <p>
 Building scalable applications, cloud-native solutions and modern software architectures.
 </p>
