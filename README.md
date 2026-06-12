@@ -8,6 +8,8 @@
 
 ### Full Stack Software Engineer | Cloud Architect | DevOps Enthusiast
 
+• Java • Python • Node.js • React • React Native • Flutter • Angular • AWS • Azure • GCP • Docker • Kubernetes • Terraform • DevOps • Software Architecture
+
 <p>
 Building scalable applications, cloud-native solutions and modern software architectures.
 </p>
@@ -22,24 +24,17 @@ Building scalable applications, cloud-native solutions and modern software archi
 
 </div>
 
----
-
 ## 🚀 About Me
 
-💻 Full Stack Software Engineer with experience designing and developing enterprise applications.
+I'm a Full Stack Software Engineer passionate about solving complex business challenges through technology.
 
-☁️ Specialized in Cloud, DevOps and Software Architecture.
+Over the years, I've worked across the entire software development lifecycle, from architecture and infrastructure design to backend services, frontend applications, cloud platforms, and DevOps automation.
 
-🏗️ Passionate about building scalable systems, microservices, automation and modern SaaS platforms.
+My expertise includes building scalable cloud-native solutions using Java, Node.js, Python, React, Angular, AWS, Azure, Kubernetes, and Terraform.
 
-🌎 Based in Costa Rica and working remotely.
+I enjoy designing systems that are reliable, maintainable, and capable of supporting business growth at scale.
 
----
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edelaguero&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edelaguero&layout=compact&theme=github_dark)
+🌎 Costa Rica | Remote First
 
 ---
 
@@ -92,6 +87,13 @@ Building scalable applications, cloud-native solutions and modern software archi
 - Serverless Solutions
 - Cloud Native Applications
 - CI/CD Pipelines
+
+---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edelaguero&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edelaguero&layout=compact&theme=github_dark)
 
 ---
 ## 🌐 Connect With Me
