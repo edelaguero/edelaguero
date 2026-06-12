@@ -1,12 +1,16 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFTN8TQMVclGQ/profile-displaybackgroundimage-shrink_350_1400/B4EZ60S4pyHAAU-/0/1781141310506?e=1782950400&v=beta&t=x6L-rnTqtAtYu6Jx2el3UX5kEoccz2gItNY03G4cSZQ">
+  <img src="./assets/banner.png" alt="Banner" width="100%">
 </p>
 
 # 👋 Hi, I'm Edel Agüero M
 
-### Full Stack Software Engineer | Cloud Architect | DevOps Enthusiast
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=edelaguero&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+### Full Stack Engineer | Cloud Solutions Architect | DevOps & Automation
 
 <p>
 Building scalable applications, cloud-native solutions and modern software architectures.
@@ -44,8 +48,9 @@ I enjoy designing systems that are reliable, maintainable, and capable of suppor
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 
-### Frontend
+### Modern Frontend Architecture
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
@@ -65,7 +70,7 @@ I enjoy designing systems that are reliable, maintainable, and capable of suppor
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Databases & Messaging
 
@@ -74,6 +79,13 @@ I enjoy designing systems that are reliable, maintainable, and capable of suppor
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
+
+## 🏆 Certifications
+
+- AWS Certified Solutions Architect (In Progress)
+- AWS Certified Cloud Practitioner
+- Flutter Certified Application Developer
+- Professional Scrum Master™ I (PSM I)
 
 ---
 ## 🏛️ Architecture Interests
@@ -86,12 +98,21 @@ I enjoy designing systems that are reliable, maintainable, and capable of suppor
 - Cloud Native Applications
 - CI/CD Pipelines
 
+## 🚀 What I'm Building
+
+### 🐾 Pet Services Platform
+A cloud-native SaaS platform connecting pet owners with veterinary clinics and pet service providers.
+
+### 📱 Multi-Channel Messaging Platform
+A white-label SaaS solution integrating WhatsApp, Instagram and Messenger APIs for business communications.
+
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edelaguero&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edelaguero&layout=compact&theme=github_dark)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edelaguero&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edelaguero&layout=compact&theme=github_dark" />
+</p>
 
 ---
 ## 🌐 Connect With Me
