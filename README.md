@@ -83,31 +83,6 @@ Building scalable applications, cloud-native solutions and modern software archi
 
 ---
 
-## 🚀 Featured Projects
-
-### 🐾 Pet Services Platform
-Pet ecosystem platform including:
-
-- Veterinary appointments
-- Pet profiles
-- Medical records
-- Multi-location providers
-- SaaS architecture
-
----
-
-### 📱 WhatsApp Business SaaS
-
-Multi-tenant platform integrating:
-
-- WhatsApp
-- Messenger
-- Instagram
-- CRM features
-- White-label capabilities
-
----
-
 ## 🌐 Connect With Me
 
 📍 Costa Rica
