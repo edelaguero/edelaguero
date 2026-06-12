@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/edelaguero/edelaguero/main/assets/banner.png">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFTN8TQMVclGQ/profile-displaybackgroundimage-shrink_350_1400/B4EZ60S4pyHAAU-/0/1781141310506?e=1782950400&v=beta&t=x6L-rnTqtAtYu6Jx2el3UX5kEoccz2gItNY03G4cSZQ">
 </p>
 
 # 👋 Hi, I'm Edel Agüero M
